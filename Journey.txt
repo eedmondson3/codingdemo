@@ -1,0 +1,25 @@
+This is my learning journey, I am documenting it to keep track
+of my learning experience with becoming a data engineer. It is important 
+to note that I do not have a CS degree or a background in Tech. I started
+in tech as a learning and development specialist with a focus on 
+Data Analytics. This will serve as excellent source material for others that
+wish to learn all about big data, data analytics, and data engineering. 
+
+Starting with Tools to Install:
+    - Git (Most recent version) Command Terminal
+    - Microsoft Visual Studio (Git interactive shell for working with Repo)
+    - Conda Python (Most recent version for programming)
+
+Tools to Learn:
+    - GitHub 
+        - Create a Repository
+        - Get an SSH Key
+        - Connecting GitHub with Git bash
+        - Cloning a Repository
+        - Making remote changes to a Repository
+        - Adding changes to Staging area
+        - Commiting changes with a descriptive text
+        - Pushing changes to main
+        - Pull Reguests
+        - Merging branches
+        - Deleting brances
