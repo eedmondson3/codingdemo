@@ -1,7 +1,7 @@
 # codingdemo
 # Learning GitHub
 
-# The teps to creating a new branch and commiting changes to GitHub.
+# The steps to creating a new branch and commiting changes to GitHub.
 # From git bash cd into repo.
 # Create a new branch with git checkout -b (New Branch Name).
 # Make changes to branch files.
