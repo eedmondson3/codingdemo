@@ -10,3 +10,5 @@
 # Push changes to GitHub main for review with git push origin main (New Branch Name)
 # In GitHub submit changes for review with a pull request.
 # Approve changes, Merge, Close, and Delete branch. 
+
+# Trial Number 3 for smoother branch merge.
